@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins","sans serif";
+}
+
+body{
+    background-color: #F4F3F9;
+}
+
+#navFirst img{
+position: absolute;
+left: 4%;
+top:7% ;
+width: 110px;
+}
+
+#navMid div {
+    display: inline-block;
+    position: relative;
+    left: 23%;
+    top: 70px;
+    padding-left: 70px;
+    font-family: "poppins";
+    font-weight: 100;
+    font-size: 19px;
+    color: #1C1B1C;
+
+}
+
+#navEnd div{
+    display: inline-block;
+    position: relative;
+    padding-left: 28px;
+    left:87%;
+    top: 33px;
+}
+
+#monstera{
+    font-family: "poppins";
+    font-weight: 700;
+    font-size: 110px;
+    position: absolute;
+    left:6%;
+    top: 34%;
+    
+}
+
+ul li:nth-child(3){
+    position:absolute;
+    top: 52%;
+    left: 6%;
+    right: 50%;
+    font-size: 17px;
+    font-family: "Poppins";
+    font-weight: 400;
+    line-height: 20px;
+    color: #1C1B1C;
+}
+
+ul li:nth-child(4){
+    position:absolute;
+    top: 58%;
+    left: 6%;
+    right: 50%;
+    font-size: 17px;
+    font-family: "Poppins";
+    font-weight: 400;
+    line-height: 20px;
+    color: #1C1B1C;
+}
+
+#imgMain{
+    position: absolute;
+    right: 0;
+    width: 535px;
+    bottom: 0;
+}
+
+#midWholePart121 div h1{
+    background-color: #466D4F;
+    width: 163px;
+    padding: 7px 100px 7px 30px;
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 37px;
+    position: absolute;
+    top:68%;
+    left: 5%;
+    border-radius: 2em;
+}
+
+#midWholePart122 img{
+position: absolute;
+top:71%;
+left: 21%;
+}
+
+.midWholePart13Parts:nth-child(1) div h4{
+    position: absolute;
+    bottom:11%;
+    left: 14%;  
+    font-size:19px ;
+}
+
+.midWholePart13Parts:nth-child(1) div .text{
+    position: absolute;
+    bottom:7%;
+    left: 9%;
+    right: 75%;
+    font-size: 12px;
+    text-align: center;
+}
+
+#feeding{
+    position: absolute;
+    bottom:4%;
+    left: 5%;
+    width: 90px;
+}
+
+.midWholePart13Parts:nth-child(2) div h4{
+    position: absolute;
+    bottom:11%;
+    left: 31%;  
+    font-size:19px ;
+}
+
+.midWholePart13Parts:nth-child(2) div .text{
+    position: absolute;
+    bottom:7%;
+    left: 27%;
+    right: 60%;
+    font-size: 12px;
+    text-align: center;
+}
+
+#light{
+    position: absolute;
+    bottom:7%;
+    left: 25%;
+    width: 35px;
+}
+.midWholePart13Parts:nth-child(3) div h4{
+    position: absolute;
+    bottom:11%;
+    left: 49%;  
+    font-size:19px ;
+}
+
+.midWholePart13Parts:nth-child(3) div .text{
+    position: absolute;
+    bottom:7%;
+    left: 44%;
+    right: 40%;
+    font-size: 12px;
+    text-align: center;
+}
+
+#care{
+    position: absolute;
+    bottom:8%;
+    left: 43%;
+    width: 50px;
+}
+
+#navMid div:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#navEnd div:hover{
+    cursor: pointer;
+}
+
+#midWholePart121 div h1:hover{
+    cursor: pointer;
+}
