@@ -7,7 +7,7 @@ By Ga-yana  :potted_plant:
 
 ## Website for buying plants online.
 
-### Click [here]() to see it live
+### Click [here](https://buymonstera.netlify.app/) to see it live
 
 ![Homepage](./photos/Screenshot%202022-08-05%20at%205.28.16%20PM.png)
 # 
